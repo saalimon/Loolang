@@ -3,8 +3,8 @@
  - **Website:** https://loolang.herokuapp.com/
  ## How to use
  > pip install Thaispoon <br>
- > from Thaispoon import Spoonerism
- > test = Spoonerism("กินอะไร").Spoon() 
+ > from Thaispoon import Spoonerism <br>
+ > test = Spoonerism("กินอะไร").Spoon() <br>
  > print(test)
 ___
 ## Functions in Thaispoon
