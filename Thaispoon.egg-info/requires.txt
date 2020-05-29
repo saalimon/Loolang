@@ -1,5 +1,0 @@
-numpy==1.16.5
-virtualenv==16.7.7
-statsmodels==0.11.1
-pythainlp==2.1.4
-matplotlib
