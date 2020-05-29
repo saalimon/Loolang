@@ -1,0 +1,9 @@
+README.md
+setup.py
+Thaispoon/Spoonerism.py
+Thaispoon/__init__.py
+Thaispoon.egg-info/PKG-INFO
+Thaispoon.egg-info/SOURCES.txt
+Thaispoon.egg-info/dependency_links.txt
+Thaispoon.egg-info/requires.txt
+Thaispoon.egg-info/top_level.txt

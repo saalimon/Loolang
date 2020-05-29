@@ -1,0 +1,1 @@
+from .Spoonerism import Spoonerism
